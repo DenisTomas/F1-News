@@ -4,3 +4,8 @@ For now I will only do what the teatcher demands, but the idea is to continue fe
 
 1. Native Mobile App for Android
     - [release/android-jetpack-material-design-creating-powerfull-android-apps](https://github.com/DenisTomas/F1-News/tree/release/android-jetpack-material-design-creating-powerfull-android-apps)
+
+2. Abstraindo Domínio de Apps para Android
+    - [release/abstraindo-domínio-de-apps-android](https://github.com/DenisTomas/F1-News/tree/release/abstraindo-dom%C3%ADnio-de-apps-android)
+
+
